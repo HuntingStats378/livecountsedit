@@ -110,6 +110,7 @@ body {
 
 .counter {
     font-size: var(--counter-font-size, 8vh)
+    line-height: 100px;
 }
 
 .footer {
@@ -136,4 +137,5 @@ body {
 
 .fa.fa-info-circle {
     font-size: 1rem;
+
 }
