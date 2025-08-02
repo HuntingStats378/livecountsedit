@@ -110,7 +110,7 @@ body {
 
 .counter {
     font-size: var(--counter-font-size, 8vh)
-    line-height: 100px;
+    line-height: 250px;
 }
 
 .footer {
@@ -139,3 +139,4 @@ body {
     font-size: 1rem;
 
 }
+
